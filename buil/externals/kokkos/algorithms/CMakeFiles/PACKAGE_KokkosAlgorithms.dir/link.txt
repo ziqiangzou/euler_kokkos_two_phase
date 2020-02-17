@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPACKAGE_KokkosAlgorithms.a  CMakeFiles/PACKAGE_KokkosAlgorithms.dir/dummy.cpp.o
+/usr/bin/ranlib libPACKAGE_KokkosAlgorithms.a

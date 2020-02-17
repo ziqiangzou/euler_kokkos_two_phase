@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmuscl.a  CMakeFiles/muscl.dir/SolverHydroMuscl.cpp.o
+/usr/bin/ranlib libmuscl.a

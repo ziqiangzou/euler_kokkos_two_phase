@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPACKAGE_KokkosContainers.a  CMakeFiles/PACKAGE_KokkosContainers.dir/dummy.cpp.o
+/usr/bin/ranlib libPACKAGE_KokkosContainers.a

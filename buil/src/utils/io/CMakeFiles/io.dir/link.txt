@@ -1,0 +1,2 @@
+/usr/bin/ar qc libio.a  CMakeFiles/io.dir/IO_common.cpp.o CMakeFiles/io.dir/IO_ReadWrite.cpp.o CMakeFiles/io.dir/IO_VTK.cpp.o
+/usr/bin/ranlib libio.a

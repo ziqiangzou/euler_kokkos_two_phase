@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPACKAGE_KokkosCore.a  CMakeFiles/PACKAGE_KokkosCore.dir/dummy.cpp.o
+/usr/bin/ranlib libPACKAGE_KokkosCore.a
