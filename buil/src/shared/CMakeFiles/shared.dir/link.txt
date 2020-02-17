@@ -1,2 +1,0 @@
-/usr/bin/ar qc libshared.a  CMakeFiles/shared.dir/HydroParams.cpp.o CMakeFiles/shared.dir/SolverBase.cpp.o CMakeFiles/shared.dir/utils.cpp.o
-/usr/bin/ranlib libshared.a

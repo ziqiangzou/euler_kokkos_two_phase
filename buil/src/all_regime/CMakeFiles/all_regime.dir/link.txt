@@ -1,2 +1,0 @@
-/usr/bin/ar qc liball_regime.a  CMakeFiles/all_regime.dir/SolverHydroAllRegime.cpp.o
-/usr/bin/ranlib liball_regime.a
